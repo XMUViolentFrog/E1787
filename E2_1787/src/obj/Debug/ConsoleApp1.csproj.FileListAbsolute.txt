@@ -1,0 +1,6 @@
+D:\1学习笔记\资料\大二下\计算机网络\实验\实验二\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\1学习笔记\资料\大二下\计算机网络\实验\实验二\test\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\1学习笔记\资料\大二下\计算机网络\实验\实验二\test\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\1学习笔记\资料\大二下\计算机网络\实验\实验二\test\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\1学习笔记\资料\大二下\计算机网络\实验\实验二\test\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\1学习笔记\资料\大二下\计算机网络\实验\实验二\test\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
